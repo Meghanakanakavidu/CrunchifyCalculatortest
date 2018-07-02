@@ -16,7 +16,7 @@ public class ExampleUnitTest {
     }
     @Test
     public void minus_isCorrect() {
-        assertEquals(4, 6 - 3);
+        assertEquals(4, 6 - 2);
     }
 
 }
